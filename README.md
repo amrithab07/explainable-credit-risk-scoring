@@ -66,7 +66,10 @@ Default rate falls from **70.7%** in the lowest score band to **6.7%** in the hi
 ### Explainability
 SHAP values explain the final model. For each applicant, the top factors pushing toward default are grouped into plain categories (payment delays, credit utilisation, repayment amounts, credit limit) so reason codes read like real adverse-action reasons.
 
-<!-- Add screenshots: outputs/shap_beeswarm.png, outputs/score_bands.png, outputs/roc_curves.png -->
+![SHAP](outputs/shap_beeswarm.png)
+![Score bands](outputs/score_bands.png)
+![ROC](outputs/roc_curves.png)
+![App](images/app.png)
 
 ---
 
