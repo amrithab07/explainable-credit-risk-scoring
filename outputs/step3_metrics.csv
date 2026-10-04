@@ -1,0 +1,2 @@
+model,ROC_AUC,KS,threshold,recall_default,precision_default
+Gradient Boosting (sklearn),0.789,0.444,0.214,0.654,0.462

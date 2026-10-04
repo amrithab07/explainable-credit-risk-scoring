@@ -1,0 +1,10 @@
+attribute,group,n,actual_default_rate,avg_predicted_default,approval_rate,approval_rate_of_good_customers,approval_rate_of_bad_customers,approval_ratio_vs_best_group
+SEX,Male,2372,0.241,0.227,0.475,0.563,0.198,0.92
+SEX,Female,3628,0.208,0.216,0.516,0.598,0.205,1.0
+MARRIAGE,Single,3196,0.207,0.218,0.499,0.581,0.186,0.99
+MARRIAGE,Married,2731,0.239,0.222,0.504,0.594,0.219,1.0
+MARRIAGE,Other,73,0.192,0.239,0.37,0.424,0.143,0.734
+AGE band,30-39,2206,0.199,0.199,0.549,0.634,0.203,1.0
+AGE band,50+,572,0.26,0.245,0.453,0.534,0.221,0.826
+AGE band,40-49,1296,0.245,0.223,0.502,0.592,0.223,0.914
+AGE band,<30,1926,0.219,0.236,0.457,0.536,0.178,0.834

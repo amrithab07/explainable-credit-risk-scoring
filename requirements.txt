@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
+joblib
+streamlit
+xlrd            # only if you use the .xls version of the dataset
+# optional, for LLM explanation modes (the app works without them):
+# anthropic
+# openai

@@ -1,0 +1,28 @@
+,IV,strength
+PAY_1,0.9064,very strong (check leakage)
+MONTHS_LATE,0.8907,very strong (check leakage)
+MAX_DELAY,0.8254,very strong (check leakage)
+PAY_2,0.5532,very strong (check leakage)
+PAY_3,0.4176,strong
+PAY_4,0.3789,strong
+PAY_5,0.3515,strong
+PAY_6,0.3091,strong
+LIMIT_BAL,0.1926,medium
+AVG_PAY_AMT,0.1826,medium
+PAY_AMT1,0.1609,medium
+PAY_AMT2,0.144,medium
+UTILIZATION,0.1288,medium
+PAY_RATIO,0.1259,medium
+PAY_AMT3,0.1199,medium
+PAY_AMT6,0.0842,weak
+PAY_AMT4,0.0822,weak
+PAY_AMT5,0.0768,weak
+EDUCATION,0.0397,weak
+AVG_BILL,0.0255,weak
+AGE,0.0229,weak
+BILL_AMT6,0.0204,weak
+BILL_AMT2,0.0184,useless
+BILL_AMT3,0.0161,useless
+BILL_AMT1,0.0153,useless
+BILL_AMT5,0.0149,useless
+BILL_AMT4,0.0143,useless

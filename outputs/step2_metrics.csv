@@ -1,0 +1,2 @@
+model,ROC_AUC,Gini,KS
+WoE scorecard (LogReg),0.768,0.536,0.424

@@ -1,0 +1,10 @@
+@"
+UCI_Credit_Card.csv
+*.xls
+*.xlsx
+model/
+outputs/reason_codes_test.csv
+__pycache__/
+*.pyc
+.env
+"@ | Set-Content -Encoding ascii .gitignore
