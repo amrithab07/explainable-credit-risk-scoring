@@ -70,6 +70,7 @@ SHAP values explain the final model. For each applicant, the top factors pushing
 ![Score bands](outputs/score_bands.png)
 ![ROC](outputs/roc_curves.png)
 ![App](images/app.png)
+![App](images/app2.png)
 
 ---
 
